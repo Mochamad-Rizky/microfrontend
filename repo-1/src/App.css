@@ -1,0 +1,25 @@
+.box-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.text-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.text-description {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.text-count {
+    font-size: 14px;
+    font-weight: normal;
+}
