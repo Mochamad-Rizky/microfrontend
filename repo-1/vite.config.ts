@@ -28,6 +28,10 @@ export default defineConfig({
           singleton: true,
           requiredVersion: packageJson.dependencies['react-dom'],
         },
+        'zustand': {
+          singleton: true,
+          requiredVersion: packageJson.dependencies['zustand'],
+        },
       },
     }),
   ],
