@@ -2,6 +2,11 @@
 
 Repository ini adalah implementasi **Micro Frontend** menggunakan **Module Federation** dengan stack React + Vite + TypeScript + Zustand.
 
+<!-- image -->
+![output](./output.png)
+
+
+
 > GitHub: [https://github.com/Mochamad-Rizky/microfrontend](https://github.com/Mochamad-Rizky/microfrontend)
 
 ---
